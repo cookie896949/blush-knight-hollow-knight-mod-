@@ -1,0 +1,9 @@
+hey there thanks for installing my humble little mod! here are the instructions on how to properly use it:
+1 install scarab or any other hollow knight modding tool if ya want 
+2 make sure you install custom knight in the scarab app
+3 add blush knight into the custom knight folder
+4 go into the hollow knight mod settings (ingame)
+5 go over to the "mods" section of the settings and select custom knight
+6 click the arrows until you find blush knight 
+(WARNING if the skin doesn't load properly then try the fix/reload option hope that helped and enjoy!)
+

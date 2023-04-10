@@ -1,0 +1,7 @@
+this is for if the mod doesn't work properly misssing assets etc. 
+------------------------------------------------------------------
+-so start off by dragging all of the charms out of the "charms!" folder and placing them into the animations folder and then rename it to the mods name (for less confusion)
+-then try going back into HK and try reloading the mod and if that doesn't work take out the folder you renamed and try replacing it with the original folder that wasn't working
+
+
+if those problems still persist please message me on game banana or something (i'm still new to game banana) or try to fix it yourself because i'm pretty new to all of this and i hope you enjoy!
